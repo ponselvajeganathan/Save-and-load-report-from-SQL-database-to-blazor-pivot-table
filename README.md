@@ -47,10 +47,6 @@ dotnet run
 
 5. Ensure the SQL Server connection is configured correctly before running the application.
 
-## Project Structure
-
-`EFPivotTable/Pages/Index.razor` — contains the Syncfusion Pivot Table implementation and report persistence workflow.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
